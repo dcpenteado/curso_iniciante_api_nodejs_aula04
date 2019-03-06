@@ -1,2 +1,2 @@
-# curso_iniciante_api_nodejs_aula04
-Curso Iniciante de API Nodejs + Express + Mongo - Aula 04
+# Nodejs API Básico - Aula 4 - Criando Schemas do mongoose
+Início da modelagem do banco de dados utilizando mongoose.
